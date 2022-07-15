@@ -6,5 +6,6 @@ This is a custom made weather app. It primarily gives the weather conditions of 
 * CSS
 ## BackEnd
 * Javascript
-# Deployement 
+# Deployment 
 * https://varun-weather-api.herokuapp.com/
+
